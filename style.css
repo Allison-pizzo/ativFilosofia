@@ -85,8 +85,8 @@ main{
     }
     
     #img2{
-        width: 35vw;
-        min-height: 500px;
+        max-width: 500px;
+        max-height: 500px;
         display: block;
         margin: auto;
     }
