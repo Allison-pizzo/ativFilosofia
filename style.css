@@ -56,6 +56,10 @@ color: white;
 text-shadow: 2px 7px 7px rgba(0, 0, 0, 0.363);
 }
 
+a:hover{
+    text-decoration: underline;
+}
+
 main{
     background-color: white;
     max-width: 1000px;
@@ -68,13 +72,15 @@ main{
     border-bottom-right-radius: 10px;
     }
 
-    div{
-        background-image: url(imagens/clt-carteira-de-trabalho-2-scaled-1-848x477.jpg);
-        box-shadow:  3px 3px 3px 0px rgba(0, 0, 0, 0.664);
-    background-size:cover;
-    background-attachment: fixed;
+    .imagem{  
+    box-shadow:  3px 3px 3px 0px rgba(0, 0, 0, 0.664);
     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     min-height: 300px;
     min-width: 400px;
+    }
+    #img1{
+        background-image: url(imagens/clt-carteira-de-trabalho-2-scaled-1-848x477.jpg);
     }
     
