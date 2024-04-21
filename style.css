@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+
+#teximport{
+    font-weight: bold;
+}
+
+header{
+   background-color: grey;
+    text-align: center;
+    min-height: 150px;
+    padding-top: 40px;
+}
+
+header > h1 {
+color:  white;
+margin-bottom: 20px;
+font-size: 3em;
+font-weight: normal;
+margin-bottom: 20px;
+text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.37);
+}
+
+header > p{
+    color: white;
+font-size: 1.2em;
+max-width: 500px;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+margin: auto;
+text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.37);
+}
+
+nav {
+    background-color: gray;
+    padding: 10px;
+    text-shadow: 0px 7px 7px rgba(0, 0, 0, 0.363);
+
+}
+
+nav > a{
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bolder;
+    border-radius: 5px;
+color: white;
+text-shadow: 2px 7px 7px rgba(0, 0, 0, 0.363);
+}
+
+main{
+    background-color: white;
+    max-width: 1000px;
+    min-width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.459);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    }
