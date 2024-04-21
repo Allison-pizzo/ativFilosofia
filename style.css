@@ -84,3 +84,9 @@ main{
         background-image: url(imagens/clt-carteira-de-trabalho-2-scaled-1-848x477.jpg);
     }
     
+    #img2{
+        width: 35vw;
+        min-height: 500px;
+        display: block;
+        margin: auto;
+    }
