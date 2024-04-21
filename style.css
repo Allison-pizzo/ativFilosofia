@@ -69,7 +69,7 @@ main{
     }
 
     div{
-        background-image: url(clt-carteira-de-trabalho-2-scaled-1-848x477.jpg);
+        background-image: url(imagens/clt-carteira-de-trabalho-2-scaled-1-848x477.jpg);
         box-shadow:  3px 3px 3px 0px rgba(0, 0, 0, 0.664);
     background-size:cover;
     background-attachment: fixed;
